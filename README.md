@@ -12,7 +12,7 @@ Steps to run the code.
 - Open `.sln` file on Visual Studio and run the code
 
 
-#Frontend (water-plant-Frontend)
+#Frontend (water-plant)
 
 Requirment
 - Node: v14.18.0 or higher
